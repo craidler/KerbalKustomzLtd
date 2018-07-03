@@ -25,7 +25,6 @@
         { "name" : "NearFutureSolar" },
         { "name" : "NearFutureConstruction" },
         { "name" : "StationPartsExpansionRedux" },
-        { "name" : "StockalikeMiningExtension" },
         { "name" : "KIS" },
         { "name" : "KerbalAlarmClock" },
         { "name" : "KerbalImprovedSaveSystem" },
