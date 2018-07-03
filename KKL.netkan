@@ -3,16 +3,17 @@
     "name"           : "Kerbal Kustomz Ltd (KKL)",
     "abstract"       : "KSP mod to fulfill some gameplay wishes",
     "identifier"     : "KKL",
-    "download"       : "https://github.com/craidler/KerbalKustomzLtd/archive/KKL-1.0.zip",
+    "download"       : "https://github.com/craidler/KerbalKustomzLtd/archive/KKL-1.1.zip",
     "license"        : "LGPL-2.1",
-    "version"        : "1.0",
+    "version"        : "1.1",
     "release_status" : "stable",
     "ksp_version_min": "1.4.0",
     "resources" : {
         "repository"   : "https://github.com/craidler/KerbalKustomzLtd"
     },
     "tags" : [
-        "resources"
+        "resources",
+        "parts"
     ],
     "depends" : [
         { "name" : "ModuleManager" },
@@ -24,6 +25,22 @@
         { "name" : "NearFutureSolar" },
         { "name" : "NearFutureConstruction" },
         { "name" : "StationPartsExpansionRedux" },
-        { "name" : "KIS" }
+        { "name" : "StockalikeMiningExtension" },
+        { "name" : "KIS" },
+        { "name" : "KerbalAlarmClock" },
+        { "name" : "KerbalImprovedSaveSystem" },
+        { "name" : "ZeroMiniAVC" },
+        { "name" : "VABReorienter" },
+        { "name" : "KeepItStraight" },
+        { "name" : "DistantObject" },
+        { "name" : "StockVisualEnhancements" },
+        { "name" : "CustomAsteroids" },
+        { "name" : "KspCraftOrganizer" }
+    ],
+    "install": [
+        {
+            "find"       : "VAB",
+            "install_to" : "Ships"
+        }
     ]
 }
