@@ -1,7 +1,7 @@
 {
     "spec_version"   : "v1.2",
     "name"           : "Kerbal Kustomz Ltd (KKL)",
-    "abstract"       : "KSP mod to fulfill personal gameplay wishes",
+    "abstract"       : "KSP mod to fulfill some gameplay wishes",
     "identifier"     : "KKL",
     "download"       : "https://github.com/craidler/KerbalKustomzLtd/archive/KKL-1.0.zip",
     "license"        : "LGPL-2.1",
