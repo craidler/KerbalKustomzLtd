@@ -17,6 +17,7 @@
     ],
     "depends" : [
         { "name" : "ModuleManager" },
+        { "name" : "ClickThroughBlocker" },
         { "name" : "MechJeb2" }
     ],
     "recommends" : [
@@ -25,7 +26,9 @@
         { "name" : "NearFutureSolar" },
         { "name" : "NearFutureConstruction" },
         { "name" : "StationPartsExpansionRedux" },
+        { "name" : "KAS" },
         { "name" : "KIS" },
+        { "name" : "KerbalInventorySystemNoFun" },
         { "name" : "KerbalAlarmClock" },
         { "name" : "KerbalImprovedSaveSystem" },
         { "name" : "ZeroMiniAVC" },
