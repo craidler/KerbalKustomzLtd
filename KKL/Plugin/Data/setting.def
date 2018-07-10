@@ -1,5 +1,6 @@
 KKL
 {
   altitude = 100000
+  inclination = 0
   separation = 100
 }
