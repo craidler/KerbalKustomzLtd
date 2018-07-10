@@ -1,4 +1,5 @@
 KKL
 {
-    separation = 100
+  altitude = 100000
+  separation = 100
 }
