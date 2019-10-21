@@ -24,6 +24,7 @@
         { "name" : "DistantObject" },
         { "name" : "EasyVesselSwitch" },
         { "name" : "EnvironmentalVisualEnhancements" },
+        { "name" : "GravityTurnContinued" },
         { "name" : "KeepItStraight" },
         { "name" : "KAS" },
         { "name" : "KIS" },
