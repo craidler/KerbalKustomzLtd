@@ -19,6 +19,7 @@
         { "name" : "ModuleManager" }
     ],
     "recommends" : [
+        { "name" : "Astrogator" },
         { "name" : "Chatterer" },
         { "name" : "DistantObject" },
         { "name" : "EasyVesselSwitch" },
@@ -40,6 +41,7 @@
         { "name" : "NearFutureSolar" },
         { "name" : "NearFutureSpacecraft" },
         { "name" : "NearFutureSpacecraft-OrbitalLFOEngines" },
+        { "name" : "PreciseEditor" },
         { "name" : "ReStock" },
         { "name" : "ReStockPlus" },
         { "name" : "SimpleFuelSwitch" },
