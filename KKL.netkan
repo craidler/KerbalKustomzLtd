@@ -31,6 +31,7 @@
         { "name" : "KerbalAlarmClock" },
         { "name" : "KerbalJointReinforcementContinued" },
         { "name" : "kOS" },
+        { "name" : "kRPC" },
         { "name" : "KspCraftOrganizer" },
         { "name" : "ResonantOrbitCalculator" },
         { "name" : "LightsOutRelit" },
